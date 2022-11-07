@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Volety</h1>
 <h3 align="center">A Passionate developer</h3>
 
-- 🔭 I’m currently working on **Reactjs**
+- 🔭 I’m currently working on **CI/CD Kubernetes**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
